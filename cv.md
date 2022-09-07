@@ -15,3 +15,35 @@
 
 ***
 
+## **My strengths:**
+
+1. ### Emotional intelligence
+2. ### Detail-oriented
+3. ### Team work
+4. ### Punctuality
+5. ### Strong work ethic
+
+***
+
+## **Code examples**
+
+***
+
+## **Skills**
+
+* #### HTML
+* #### CSS
+* #### Figma
+***
+
+## **Education**
+* ### Udemy course “Web developer” by Ivan Petricenko (in progress)
+* ### Java Script for beginnesrs course on Code Basics platofrm by Hexlet
+* ### RS Schools Course «JavaScript/Front-end » (in progress)
+***
+## **Languages**
+
+
+### **Russian** - native speaker
+### **English** - B2
+### **Turkish** - C1
