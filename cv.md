@@ -26,7 +26,22 @@
 ***
 
 ## **Code examples**
+```
+<script>
+      const page = document.querySelector('.page');
+      const button = document.querySelector('.button');
+      const text = document.querySelector('.flipper__text');
+      const getRandom = (max) => Math.floor(Math.random() * max);
+      const changeColor = (background) => {
+        const [r, g, b] = [getRandom(255), getRandom(255), getRandom(255)];
+        page.style.backgroundColor = `rgb(${r}, ${g}, ${b})`;
+        text.textContent = "Color = " + page.style.backgroundColor;
+      };
 
+      button.addEventListener('click', changeColor);
+   </script>
+   ```
+   
 ***
 
 ## **Skills**
